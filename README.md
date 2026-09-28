@@ -24,7 +24,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,php,python,react,nextjs,vue,nuxtjs,tailwind,nodejs,nestjs,express,laravel,symfony,graphql,mysql,postgres,mongodb,redis,elasticsearch,aws,azure,gcp,docker,kubernetes,nginx,linux,githubactions,git,jest,cypress,postman,figma&perline=11&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cphp%2Cpython%2Creact%2Cnextjs%2Cvue%2Cnuxtjs%2Ctailwind%2Cnodejs%2Cnestjs%2Cexpress%2Claravel%2Csymfony%2Cgraphql%2Cmysql%2Cpostgres%2Cmongodb%2Credis%2Celasticsearch%2Caws%2Cazure%2Cgcp%2Cdocker%2Ckubernetes%2Cnginx%2Clinux%2Cgithubactions%2Cgit%2Cjest%2Ccypress%2Cpostman%2Cfigma&perline=11&theme=dark" />
     <img src="https://skillicons.dev/icons?i=ts,js,php,python,react,nextjs,vue,nuxtjs,tailwind,nodejs,nestjs,express,laravel,symfony,graphql,mysql,postgres,mongodb,redis,elasticsearch,aws,azure,gcp,docker,kubernetes,nginx,linux,githubactions,git,jest,cypress,postman,figma&perline=11&theme=light" alt="Tech stack" />
   </picture>
 </p>
