@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="272" viewBox="0 0 900 272" fill="none" role="img" aria-label="What I build: SaaS platforms, APIs and integrations, AI-powered search, dashboards and portals, cloud and DevOps, performance">
+<defs>
+  <linearGradient id="top" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#3B82F6" stop-opacity=".9"/><stop offset=".5" stop-color="#3B82F6" stop-opacity=".15"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></linearGradient>
+  <clipPath id="c0"><rect x="0.0" y="0" width="289.3" height="128" rx="14"/></clipPath><clipPath id="c1"><rect x="305.3" y="0" width="289.3" height="128" rx="14"/></clipPath><clipPath id="c2"><rect x="610.7" y="0" width="289.3" height="128" rx="14"/></clipPath><clipPath id="c3"><rect x="0.0" y="144" width="289.3" height="128" rx="14"/></clipPath><clipPath id="c4"><rect x="305.3" y="144" width="289.3" height="128" rx="14"/></clipPath><clipPath id="c5"><rect x="610.7" y="144" width="289.3" height="128" rx="14"/></clipPath>
+</defs>
+<style>
+  .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+  .mono{font-family:'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
+</style>
+<g clip-path="url(#c0)">
+  <rect x="0.0" y="0" width="289.3" height="128" fill="#0D1118"/>
+  <rect x="0.0" y="0" width="289.3" height="1.5" fill="url(#top)"/>
+</g>
+<rect x="0.5" y="0.5" width="288.3" height="127" rx="13.5" stroke="#1E2531"/>
+<rect x="20.5" y="22.5" width="41" height="41" rx="10.5" fill="#3B82F6" fill-opacity=".10" stroke="#3B82F6" stroke-opacity=".3"/>
+<g transform="translate(29.0 31)"><path d="M12 3 21 8 12 13 3 8Z" stroke="#60A5FA" stroke-width="1.7" stroke-linejoin="round"/><path d="M3 12.5 12 17.5 21 12.5M3 16.5 12 21.5 21 16.5" stroke="#60A5FA" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round"/></g>
+<text x="76.0" y="49" class="sans" font-size="16.5" font-weight="700" fill="#F3F5F8">SaaS Platforms</text>
+<text x="20.0" y="90" class="sans" font-size="13" fill="#8A94A3">Multi-tenant apps, roles and</text>
+<text x="20.0" y="109" class="sans" font-size="13" fill="#8A94A3">permissions, billing &amp; subscriptions.</text><g clip-path="url(#c1)">
+  <rect x="305.3" y="0" width="289.3" height="128" fill="#0D1118"/>
+  <rect x="305.3" y="0" width="289.3" height="1.5" fill="url(#top)"/>
+</g>
+<rect x="305.8" y="0.5" width="288.3" height="127" rx="13.5" stroke="#1E2531"/>
+<rect x="325.8" y="22.5" width="41" height="41" rx="10.5" fill="#3B82F6" fill-opacity=".10" stroke="#3B82F6" stroke-opacity=".3"/>
+<g transform="translate(334.3 31)"><path d="M8 4C5.5 4 5.5 6 5.5 8S5.5 11 3.5 12C5.5 13 5.5 14 5.5 16S5.5 20 8 20M16 4C18.5 4 18.5 6 18.5 8S18.5 11 20.5 12C18.5 13 18.5 14 18.5 16S18.5 20 16 20" stroke="#60A5FA" stroke-width="1.7" stroke-linecap="round"/><circle cx="12" cy="12" r="1.6" fill="#60A5FA"/></g>
+<text x="381.3" y="49" class="sans" font-size="16.5" font-weight="700" fill="#F3F5F8">APIs &amp; Integrations</text>
+<text x="325.3" y="90" class="sans" font-size="13" fill="#8A94A3">REST &amp; GraphQL APIs, webhooks,</text>
+<text x="325.3" y="109" class="sans" font-size="13" fill="#8A94A3">payment gateways, third parties.</text><g clip-path="url(#c2)">
+  <rect x="610.7" y="0" width="289.3" height="128" fill="#0D1118"/>
+  <rect x="610.7" y="0" width="289.3" height="1.5" fill="url(#top)"/>
+</g>
+<rect x="611.2" y="0.5" width="288.3" height="127" rx="13.5" stroke="#1E2531"/>
+<rect x="631.2" y="22.5" width="41" height="41" rx="10.5" fill="#3B82F6" fill-opacity=".10" stroke="#3B82F6" stroke-opacity=".3"/>
+<g transform="translate(639.7 31)"><path d="M12 3C12.8 8.2 13.9 10.2 20.5 12 13.9 13.8 12.8 15.8 12 21 11.2 15.8 10.1 13.8 3.5 12 10.1 10.2 11.2 8.2 12 3Z" stroke="#60A5FA" stroke-width="1.6" stroke-linejoin="round"/></g>
+<text x="686.7" y="49" class="sans" font-size="16.5" font-weight="700" fill="#F3F5F8">AI-Powered Search</text>
+<text x="630.7" y="90" class="sans" font-size="13" fill="#8A94A3">RAG pipelines, embeddings,</text>
+<text x="630.7" y="109" class="sans" font-size="13" fill="#8A94A3">semantic retrieval, LLM assistants.</text><g clip-path="url(#c3)">
+  <rect x="0.0" y="144" width="289.3" height="128" fill="#0D1118"/>
+  <rect x="0.0" y="144" width="289.3" height="1.5" fill="url(#top)"/>
+</g>
+<rect x="0.5" y="144.5" width="288.3" height="127" rx="13.5" stroke="#1E2531"/>
+<rect x="20.5" y="166.5" width="41" height="41" rx="10.5" fill="#3B82F6" fill-opacity=".10" stroke="#3B82F6" stroke-opacity=".3"/>
+<g transform="translate(29.0 175)"><path d="M5.5 20v-7M12 20V7M18.5 20V3.5" stroke="#60A5FA" stroke-width="2.4" stroke-linecap="round"/></g>
+<text x="76.0" y="193" class="sans" font-size="16.5" font-weight="700" fill="#F3F5F8">Dashboards &amp; Portals</text>
+<text x="20.0" y="234" class="sans" font-size="13" fill="#8A94A3">Admin panels, analytics and</text>
+<text x="20.0" y="253" class="sans" font-size="13" fill="#8A94A3">client-facing portals.</text><g clip-path="url(#c4)">
+  <rect x="305.3" y="144" width="289.3" height="128" fill="#0D1118"/>
+  <rect x="305.3" y="144" width="289.3" height="1.5" fill="url(#top)"/>
+</g>
+<rect x="305.8" y="144.5" width="288.3" height="127" rx="13.5" stroke="#1E2531"/>
+<rect x="325.8" y="166.5" width="41" height="41" rx="10.5" fill="#3B82F6" fill-opacity=".10" stroke="#3B82F6" stroke-opacity=".3"/>
+<g transform="translate(334.3 175)"><path d="M7 19h10.5a4 4 0 0 0 .6-7.96A6 6 0 0 0 6.4 10.1 4.5 4.5 0 0 0 7 19Z" stroke="#60A5FA" stroke-width="1.7" stroke-linejoin="round"/></g>
+<text x="381.3" y="193" class="sans" font-size="16.5" font-weight="700" fill="#F3F5F8">Cloud &amp; DevOps</text>
+<text x="325.3" y="234" class="sans" font-size="13" fill="#8A94A3">Docker, CI/CD and Kubernetes</text>
+<text x="325.3" y="253" class="sans" font-size="13" fill="#8A94A3">on AWS, Azure and GCP.</text><g clip-path="url(#c5)">
+  <rect x="610.7" y="144" width="289.3" height="128" fill="#0D1118"/>
+  <rect x="610.7" y="144" width="289.3" height="1.5" fill="url(#top)"/>
+</g>
+<rect x="611.2" y="144.5" width="288.3" height="127" rx="13.5" stroke="#1E2531"/>
+<rect x="631.2" y="166.5" width="41" height="41" rx="10.5" fill="#3B82F6" fill-opacity=".10" stroke="#3B82F6" stroke-opacity=".3"/>
+<g transform="translate(639.7 175)"><path d="M13.5 2.5 5 13.5h6l-1 8 8.5-11h-6l1-8Z" stroke="#60A5FA" stroke-width="1.6" stroke-linejoin="round"/></g>
+<text x="686.7" y="193" class="sans" font-size="16.5" font-weight="700" fill="#F3F5F8">Performance</text>
+<text x="630.7" y="234" class="sans" font-size="13" fill="#8A94A3">Caching, queues, query tuning</text>
+<text x="630.7" y="253" class="sans" font-size="13" fill="#8A94A3">and profiling under real load.</text>
+</svg>
