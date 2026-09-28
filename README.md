@@ -7,19 +7,7 @@
 </a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmad-rauf-ar/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" />
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=2563EB&labelColor=EEF2F7" alt="LinkedIn" />
-    </picture>
-  </a>
-  <a href="mailto:ahmadrauf51@yahoo.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-Say%20hello-2563EB?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=161B22" />
-      <img src="https://img.shields.io/badge/Email-Say%20hello-2563EB?style=for-the-badge&logo=maildotru&logoColor=2563EB&labelColor=EEF2F7" alt="Email" />
-    </picture>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ahmadrauf51&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile views" />
+<a href="https://www.linkedin.com/in/ahmad-rauf-ar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" /><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=2563EB&labelColor=EEF2F7" alt="LinkedIn" /></picture></a>&nbsp;<a href="mailto:ahmadrauf51@yahoo.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-Say%20hello-2563EB?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=161B22" /><img src="https://img.shields.io/badge/Email-Say%20hello-2563EB?style=for-the-badge&logo=maildotru&logoColor=2563EB&labelColor=EEF2F7" alt="Email" /></picture></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=ahmadrauf51&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Profile views" />
 </p>
 
 <br/>
