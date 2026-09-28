@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="272" viewBox="0 0 900 272" fill="none" role="img" aria-label="What I build: SaaS platforms, APIs and integrations, AI-powered search, dashboards and portals, cloud and DevOps, performance">
+<defs><linearGradient id="g0" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3B82F6"/><stop offset="1" stop-color="#06B6D4"/></linearGradient><radialGradient id="h0"><stop stop-color="#3B82F6" stop-opacity=".28"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient><clipPath id="c0"><rect x="0.0" y="0" width="289.3" height="128" rx="14"/></clipPath><linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient><radialGradient id="h1"><stop stop-color="#8B5CF6" stop-opacity=".28"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient><clipPath id="c1"><rect x="305.3" y="0" width="289.3" height="128" rx="14"/></clipPath><linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F59E0B"/><stop offset="1" stop-color="#EF4444"/></linearGradient><radialGradient id="h2"><stop stop-color="#F59E0B" stop-opacity=".28"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/></radialGradient><clipPath id="c2"><rect x="610.7" y="0" width="289.3" height="128" rx="14"/></clipPath><linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10B981"/><stop offset="1" stop-color="#06B6D4"/></linearGradient><radialGradient id="h3"><stop stop-color="#10B981" stop-opacity=".28"/><stop offset="1" stop-color="#10B981" stop-opacity="0"/></radialGradient><clipPath id="c3"><rect x="0.0" y="144" width="289.3" height="128" rx="14"/></clipPath><linearGradient id="g4" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6366F1"/><stop offset="1" stop-color="#3B82F6"/></linearGradient><radialGradient id="h4"><stop stop-color="#6366F1" stop-opacity=".28"/><stop offset="1" stop-color="#6366F1" stop-opacity="0"/></radialGradient><clipPath id="c4"><rect x="305.3" y="144" width="289.3" height="128" rx="14"/></clipPath><linearGradient id="g5" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#EC4899"/><stop offset="1" stop-color="#F59E0B"/></linearGradient><radialGradient id="h5"><stop stop-color="#EC4899" stop-opacity=".28"/><stop offset="1" stop-color="#EC4899" stop-opacity="0"/></radialGradient><clipPath id="c5"><rect x="610.7" y="144" width="289.3" height="128" rx="14"/></clipPath></defs>
+<style>
+  .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+  .mono{font-family:'SFMono-Regular','JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
+
+  .breathe{animation:br 6s ease-in-out infinite}
+  @keyframes br{0%,100%{opacity:.6}50%{opacity:1}}
+</style>
+<g clip-path="url(#c0)">
+  <rect x="0.0" y="0" width="289.3" height="128" fill="#0A1022"/>
+  <circle cx="279.3" cy="10" r="110" fill="url(#h0)" class="breathe" style="animation-delay:0.0s"/>
+  <rect x="0.0" y="0" width="289.3" height="2" fill="url(#g0)"/>
+</g>
+<rect x="0.5" y="0.5" width="288.3" height="127" rx="13.5" stroke="#1C2640"/>
+<rect x="20.0" y="22" width="42" height="42" rx="11" fill="url(#g0)"/>
+<g transform="translate(29.0 31)"><path d="M12 3 21 8 12 13 3 8Z" stroke="#fff" stroke-width="1.8" stroke-linejoin="round"/><path d="M3 12.5 12 17.5 21 12.5M3 16.5 12 21.5 21 16.5" stroke="#fff" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/></g>
+<text x="76.0" y="49" class="sans" font-size="16.5" font-weight="700" fill="#F1F5F9">SaaS Platforms</text>
+<text x="20.0" y="90" class="sans" font-size="13" fill="#94A3B8">Multi-tenant apps, roles and</text>
+<text x="20.0" y="109" class="sans" font-size="13" fill="#94A3B8">permissions, billing &amp; subscriptions.</text><g clip-path="url(#c1)">
+  <rect x="305.3" y="0" width="289.3" height="128" fill="#0A1022"/>
+  <circle cx="584.7" cy="10" r="110" fill="url(#h1)" class="breathe" style="animation-delay:0.6s"/>
+  <rect x="305.3" y="0" width="289.3" height="2" fill="url(#g1)"/>
+</g>
+<rect x="305.8" y="0.5" width="288.3" height="127" rx="13.5" stroke="#1C2640"/>
+<rect x="325.3" y="22" width="42" height="42" rx="11" fill="url(#g1)"/>
+<g transform="translate(334.3 31)"><path d="M8 4C5.5 4 5.5 6 5.5 8S5.5 11 3.5 12C5.5 13 5.5 14 5.5 16S5.5 20 8 20M16 4C18.5 4 18.5 6 18.5 8S18.5 11 20.5 12C18.5 13 18.5 14 18.5 16S18.5 20 16 20" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/><circle cx="12" cy="12" r="1.6" fill="#fff"/></g>
+<text x="381.3" y="49" class="sans" font-size="16.5" font-weight="700" fill="#F1F5F9">APIs &amp; Integrations</text>
+<text x="325.3" y="90" class="sans" font-size="13" fill="#94A3B8">REST &amp; GraphQL APIs, webhooks,</text>
+<text x="325.3" y="109" class="sans" font-size="13" fill="#94A3B8">payment gateways, third parties.</text><g clip-path="url(#c2)">
+  <rect x="610.7" y="0" width="289.3" height="128" fill="#0A1022"/>
+  <circle cx="890.0" cy="10" r="110" fill="url(#h2)" class="breathe" style="animation-delay:1.2s"/>
+  <rect x="610.7" y="0" width="289.3" height="2" fill="url(#g2)"/>
+</g>
+<rect x="611.2" y="0.5" width="288.3" height="127" rx="13.5" stroke="#1C2640"/>
+<rect x="630.7" y="22" width="42" height="42" rx="11" fill="url(#g2)"/>
+<g transform="translate(639.7 31)"><path d="M12 2.5C12.8 8 14 10 21 12 14 14 12.8 16 12 21.5 11.2 16 10 14 3 12 10 10 11.2 8 12 2.5Z" fill="#fff"/><path d="M19 3v4M17 5h4" stroke="#fff" stroke-width="1.6" stroke-linecap="round"/></g>
+<text x="686.7" y="49" class="sans" font-size="16.5" font-weight="700" fill="#F1F5F9">AI-Powered Search</text>
+<text x="630.7" y="90" class="sans" font-size="13" fill="#94A3B8">RAG pipelines, embeddings,</text>
+<text x="630.7" y="109" class="sans" font-size="13" fill="#94A3B8">semantic retrieval, LLM assistants.</text><g clip-path="url(#c3)">
+  <rect x="0.0" y="144" width="289.3" height="128" fill="#0A1022"/>
+  <circle cx="279.3" cy="154" r="110" fill="url(#h3)" class="breathe" style="animation-delay:1.8s"/>
+  <rect x="0.0" y="144" width="289.3" height="2" fill="url(#g3)"/>
+</g>
+<rect x="0.5" y="144.5" width="288.3" height="127" rx="13.5" stroke="#1C2640"/>
+<rect x="20.0" y="166" width="42" height="42" rx="11" fill="url(#g3)"/>
+<g transform="translate(29.0 175)"><rect x="4" y="12" width="3.6" height="8" rx="1" fill="#fff"/><rect x="10.2" y="7" width="3.6" height="13" rx="1" fill="#fff"/><rect x="16.4" y="3.5" width="3.6" height="16.5" rx="1" fill="#fff"/></g>
+<text x="76.0" y="193" class="sans" font-size="16.5" font-weight="700" fill="#F1F5F9">Dashboards &amp; Portals</text>
+<text x="20.0" y="234" class="sans" font-size="13" fill="#94A3B8">Admin panels, analytics and</text>
+<text x="20.0" y="253" class="sans" font-size="13" fill="#94A3B8">client-facing portals.</text><g clip-path="url(#c4)">
+  <rect x="305.3" y="144" width="289.3" height="128" fill="#0A1022"/>
+  <circle cx="584.7" cy="154" r="110" fill="url(#h4)" class="breathe" style="animation-delay:2.4s"/>
+  <rect x="305.3" y="144" width="289.3" height="2" fill="url(#g4)"/>
+</g>
+<rect x="305.8" y="144.5" width="288.3" height="127" rx="13.5" stroke="#1C2640"/>
+<rect x="325.3" y="166" width="42" height="42" rx="11" fill="url(#g4)"/>
+<g transform="translate(334.3 175)"><path d="M7 19h10.5a4 4 0 0 0 .6-7.96A6 6 0 0 0 6.4 10.1 4.5 4.5 0 0 0 7 19Z" stroke="#fff" stroke-width="1.8" stroke-linejoin="round"/><path d="m10 14 2-2 2 2M12 12v5" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="381.3" y="193" class="sans" font-size="16.5" font-weight="700" fill="#F1F5F9">Cloud &amp; DevOps</text>
+<text x="325.3" y="234" class="sans" font-size="13" fill="#94A3B8">Docker, CI/CD and Kubernetes</text>
+<text x="325.3" y="253" class="sans" font-size="13" fill="#94A3B8">on AWS, Azure and GCP.</text><g clip-path="url(#c5)">
+  <rect x="610.7" y="144" width="289.3" height="128" fill="#0A1022"/>
+  <circle cx="890.0" cy="154" r="110" fill="url(#h5)" class="breathe" style="animation-delay:3.0s"/>
+  <rect x="610.7" y="144" width="289.3" height="2" fill="url(#g5)"/>
+</g>
+<rect x="611.2" y="144.5" width="288.3" height="127" rx="13.5" stroke="#1C2640"/>
+<rect x="630.7" y="166" width="42" height="42" rx="11" fill="url(#g5)"/>
+<g transform="translate(639.7 175)"><path d="M13.5 2.5 5 13.5h6l-1 8 8.5-11h-6l1-8Z" fill="#fff"/></g>
+<text x="686.7" y="193" class="sans" font-size="16.5" font-weight="700" fill="#F1F5F9">Performance</text>
+<text x="630.7" y="234" class="sans" font-size="13" fill="#94A3B8">Caching, queues, query tuning</text>
+<text x="630.7" y="253" class="sans" font-size="13" fill="#94A3B8">and profiling under real load.</text>
+</svg>
